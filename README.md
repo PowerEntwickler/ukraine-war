@@ -12,9 +12,11 @@ https://ukraine.drk-psnv.de/german
 
 ### English:  
 https://ukraine.drk-psnv.de/english  
+![](qrcode_ukraine.drk-psnv.de.english.png)  
 
 ### Русский:  
-https://ukraine.drk-psnv.de/russian
+https://ukraine.drk-psnv.de/russian  
+![](qrcode_ukraine.drk-psnv.de.russian.png)  
 
 ## Regional | Regional | Региональный 
 
